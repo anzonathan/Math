@@ -1,8 +1,9 @@
 # Math
 My Personal Study Journey into Math
 
-Step 1: Understand Math 
-1. Map of Mathematics [Video](https://www.youtube.com/watch?v=OmJ-4B-mS-Y)
+Map of Mathematics [Video](https://www.youtube.com/watch?v=OmJ-4B-mS-Y)
+
+These topics can only be covered with general math knowlege such as that of an O level student. If you need another starting point, I reccomend Kahn Academy.
 
 | Learning Order | Topic                |
 | -------------- | -------------------- |
