@@ -1,7 +1,7 @@
 # Math
 My Personal Study Journey into Math
 
-Map of Mathematics [Video](https://www.youtube.com/watch?v=OmJ-4B-mS-Y)
+### Map of Mathematics [Video](https://www.youtube.com/watch?v=OmJ-4B-mS-Y)
 
 These topics can only be covered with general math knowlege such as that of an O level student. If you need another starting point, I reccomend Kahn Academy.
 
@@ -20,7 +20,10 @@ These topics can only be covered with general math knowlege such as that of an O
 | 11             | Abstract Algebra     |
 | 12             | Graph Theory         |
 
-Resources
+### Resources
+
+This is a list of compiled resources that I got from a reddit post and a youtube video.
+
 - Videos 
 	- 3 blue 1 brown
 	- Andy Math
