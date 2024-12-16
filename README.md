@@ -41,8 +41,8 @@ This is a list of compiled resources that I got from a reddit post and a youtube
 	- https://www.youtube.com/playlist?list=PL3B08AE665AB9002A
 	- https://www.youtube.com/playlist?list=PL1C22D4DED943EF7B
 	- https://www.youtube.com/playlist?list=PLD971E94905A70448
-	- https://www.youtube.com/playlist?list=PLJmfLfPx1OedcIUn5nSCZQEtJrhLusB5Y
-	- https://www.youtube.com/playlist?list=PLg5tKDNI_a86OO6J9HuIngyROBsUqcf_z
+	- [Fundamentals of Mathematics](https://www.youtube.com/playlist?list=PLJmfLfPx1OedcIUn5nSCZQEtJrhLusB5Y)
+	- [Oxford Philosophy of Mathematics](https://www.youtube.com/playlist?list=PLg5tKDNI_a86OO6J9HuIngyROBsUqcf_z)
 - Websites
 	- https://jiblm.org/guides/index.php?category=jiblmjournal
 	- https://math.mit.edu/academics/undergrad/roadmaps.html
