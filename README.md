@@ -27,6 +27,7 @@ This is a list of compiled resources that I got from a reddit post and a youtube
 - Videos 
 	- 3 blue 1 brown
 	- Andy Math
+ 	- Numberphile 
 	- Daily Challenge Po Shen Loh 
 	- Eddie Woo
 		- https://www.youtube.com/watch?v=1BkcHxLH4m0&list=PL5KkMZvBpo5CHAV85gvW2DrckWx0ARiJE
