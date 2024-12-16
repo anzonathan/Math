@@ -34,7 +34,7 @@ This is a list of compiled resources that I got from a reddit post and a youtube
 		- https://www.youtube.com/watch?v=HZoHarCLnao&list=PL5KkMZvBpo5C9nhzyacvNtcWHLh3mvXJE
 		- https://www.youtube.com/watch?v=-5JSjp4969E&list=PL5KkMZvBpo5D6oNmraS0ZtnkLCKciBhTg
 		- https://www.youtube.com/watch?v=m_V5MwEWhdA&list=PL5KkMZvBpo5ByiBtqCQLcSZtT3_c1NQu0
-	- https://www.youtube.com/playlist?list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v
+	- Free Code Camp [Math Courses](https://www.youtube.com/playlist?list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v)
 	- https://www.youtube.com/playlist?list=PLZzHxk_TPOStgPtqRZ6KzmkUQBQ8TSWVX
 	- https://www.youtube.com/playlist?list=PLISEtDmihMo395ECdd9fqsIZ9y2LWXnLZ
 	- https://www.youtube.com/playlist?list=PLBE9407EA64E2C318
