@@ -16,7 +16,7 @@ These topics can only be covered with general math knowlege such as that of an O
 | 7              | Linear Algebra       |
 | 8              | Probability          |
 | 9              | Analysis             |
-| 10             | Abstract Algebra     |
+| 10             | Statistics           |
 | 11             | Abstract Algebra     |
 | 12             | Graph Theory         |
 
